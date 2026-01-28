@@ -16,6 +16,7 @@ You will learn how to
 - use [**the Marketplace**](https://github.com/marketplace)
 - create a complete and secure **CI pipeline** from scratch
 - deploy your application to [Microsoft Azure](https://azure.com/) (or another Cloud Provider of your choice)
+- and so much more
 
 ## Getting Started 🚀
 
